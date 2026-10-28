@@ -1,0 +1,26 @@
+# Swear words and insults the offensive-word filter (naughty-words) misses, one per line.
+# They're never a Root, Grid or Bonus word: spelling one earns nothing.
+ASSES
+ARSE
+BLOODY
+BOLLOCK
+BUGGER
+CRAP
+CRAPPY
+DAMN
+DAMNED
+DAMNING
+GODDAMN
+HELL
+HELLS
+PISS
+PISSED
+PRICK
+DICKS
+JERK
+MORON
+IDIOT
+STUPID
+DUMB
+SCUM
+SCREWED

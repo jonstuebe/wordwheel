@@ -91,937 +91,210 @@
     ]
   },
   {
-    "letters": "OHLTE",
+    "letters": "MENOW",
     "rows": 5,
     "cols": 5,
     "words": [
       {
-        "w": "HOTEL",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "HOT",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "LOT",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "LET",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "THE",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "HOE",
-      "HOLE",
-      "TOE"
-    ]
-  },
-  {
-    "letters": "IHTRE",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "THEIR",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "TIE",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "HER",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "THE",
-        "r": 0,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "HIT",
-        "r": 0,
-        "c": 0,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "HEIR",
-      "HIRE",
-      "IRE",
-      "RITE",
-      "TIER",
-      "TIRE"
-    ]
-  },
-  {
-    "letters": "YTOHU",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "YOUTH",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "OUT",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "HOT",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "THY",
-        "r": 0,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "YOU",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "HUT",
-      "THOU",
-      "TOY"
-    ]
-  },
-  {
-    "letters": "DEABS",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "BASED",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "BED",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "BAD",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "SAD",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "SEA",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "ADS",
-      "BADE",
-      "BASE",
-      "BEAD",
-      "BEADS",
-      "BEDS",
-      "DAB",
-      "DABS"
-    ]
-  },
-  {
-    "letters": "NIFDE",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "FINED",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "FINE",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "FIND",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "DIE",
-        "r": 2,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "END",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DEN",
-      "DIN",
-      "DINE",
-      "FED",
-      "FEN",
-      "FEND",
-      "FIEND",
-      "FIN"
-    ]
-  },
-  {
-    "letters": "ORPSE",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "PROSE",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "ROPE",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "ROSE",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "SORE",
-        "r": 0,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "PER",
-        "r": 5,
-        "c": 0,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "ORE",
-      "ORES",
-      "PORE",
-      "PORES",
-      "POSE",
-      "PRO",
-      "PROS",
-      "REP",
-      "REPS",
-      "ROE",
-      "ROES",
-      "ROPES",
-      "SOP",
-      "SPORE"
-    ]
-  },
-  {
-    "letters": "UAERG",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "ARGUE",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "EAR",
-        "r": 1,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "GEAR",
-        "r": 1,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "AGE",
-        "r": 1,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "ARE",
-        "r": 4,
-        "c": 3,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "ERA",
-      "RAG",
-      "RAGE",
-      "RUE",
-      "RUG",
-      "URGE"
-    ]
-  },
-  {
-    "letters": "CAKSN",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "SNACK",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "SCAN",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "ASK",
-        "r": 2,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "SACK",
+        "w": "WOMEN",
         "r": 4,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "CAN",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "CANS",
-      "CASK",
-      "SAC",
-      "SANK"
-    ]
-  },
-  {
-    "letters": "DGOIN",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "DOING",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "DIG",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "GOD",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "DON",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "DOG",
-        "r": 0,
-        "c": 3,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DIN",
-      "GIN",
-      "ION",
-      "NOD"
-    ]
-  },
-  {
-    "letters": "GRSAP",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "GRASP",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "GAP",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "GAS",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "RAG",
-        "r": 0,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "PAR",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "GAPS",
-      "GASP",
-      "PARS",
-      "PAS",
-      "RAGS",
-      "RAP",
-      "RAPS",
-      "RASP",
-      "SAG",
-      "SAP",
-      "SPA",
-      "SPAR"
-    ]
-  },
-  {
-    "letters": "UESAC",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "SAUCE",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "CASE",
-        "r": 0,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "CAUSE",
-        "r": 0,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "USE",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "SEA",
-        "r": 4,
-        "c": 1,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "ACE",
-      "ACES",
-      "CUE",
-      "CUES",
-      "SAC",
-      "SUE"
-    ]
-  },
-  {
-    "letters": "INDAR",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "DRAIN",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "RAN",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "AND",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "RID",
-        "r": 0,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "AIR",
-        "r": 1,
-        "c": 3,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "AID",
-      "ARID",
-      "DARN",
-      "DIN",
-      "RAID",
-      "RAIN",
-      "RIND"
-    ]
-  },
-  {
-    "letters": "EWIHT",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "WHITE",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "WITH",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "HIT",
-        "r": 5,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "THE",
+        "w": "ONE",
         "r": 2,
         "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "TIE",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "HEW",
-      "WET",
-      "WHET",
-      "WIT"
-    ]
-  },
-  {
-    "letters": "YARHD",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "HARDY",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "RAY",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "DAY",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "HARD",
-        "r": 0,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "HAD",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "DRY",
-      "HAY",
-      "YARD"
-    ]
-  },
-  {
-    "letters": "FWLON",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "FLOWN",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "OWN",
-        "r": 2,
-        "c": 2,
         "d": "D"
       },
       {
         "w": "WON",
+        "r": 2,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "NEW",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "NOW",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "EON",
+      "MEN",
+      "MEOW",
+      "MEW",
+      "MOW",
+      "OMEN",
+      "OWE",
+      "OWN",
+      "WOE"
+    ]
+  },
+  {
+    "letters": "PEWTS",
+    "rows": 6,
+    "cols": 6,
+    "words": [
+      {
+        "w": "SWEPT",
         "r": 4,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "NOW",
+        "w": "WEST",
         "r": 2,
-        "c": 4,
+        "c": 0,
         "d": "D"
       },
       {
-        "w": "LOW",
+        "w": "STEP",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "SET",
+        "r": 2,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "WET",
         "r": 0,
-        "c": 3,
+        "c": 4,
         "d": "D"
       }
     ],
     "bonus": [
-      "FLOW",
-      "FOWL",
-      "OWL",
-      "WOLF"
+      "PEST",
+      "PET",
+      "PETS",
+      "PEW",
+      "PEWS",
+      "SEW",
+      "SPEW",
+      "STEW",
+      "WEPT",
+      "WETS"
     ]
   },
   {
-    "letters": "IFRST",
+    "letters": "SRIKT",
     "rows": 5,
     "cols": 5,
     "words": [
       {
-        "w": "FIRST",
-        "r": 2,
+        "w": "SKIRT",
+        "r": 0,
         "c": 0,
         "d": "A"
       },
       {
         "w": "SIR",
         "r": 0,
-        "c": 2,
+        "c": 0,
         "d": "D"
+      },
+      {
+        "w": "RISK",
+        "r": 2,
+        "c": 0,
+        "d": "A"
       },
       {
         "w": "SIT",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "FIT",
         "r": 2,
-        "c": 0,
+        "c": 2,
         "d": "D"
       },
       {
         "w": "ITS",
-        "r": 0,
-        "c": 0,
+        "r": 4,
+        "c": 1,
         "d": "A"
       }
     ],
     "bonus": [
-      "FIR",
-      "FIRS",
-      "FIST",
-      "FITS",
-      "IFS",
-      "RIFT",
-      "RIFTS",
-      "SIFT",
+      "IRK",
+      "IRKS",
+      "KIT",
+      "KITS",
+      "SKI",
+      "SKIT",
       "STIR"
     ]
   },
   {
-    "letters": "ENHSO",
+    "letters": "BRADO",
     "rows": 6,
     "cols": 6,
     "words": [
       {
-        "w": "SHONE",
-        "r": 3,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "ONES",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "SHE",
+        "w": "BROAD",
         "r": 1,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "NOSE",
-        "r": 0,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "SON",
-        "r": 2,
+        "w": "BOARD",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "BAD",
+        "r": 0,
         "c": 3,
         "d": "D"
-      }
-    ],
-    "bonus": [
-      "EON",
-      "EONS",
-      "HEN",
-      "HENS",
-      "HES",
-      "HOE",
-      "HOES",
-      "HONE",
-      "HONES",
-      "HOSE",
-      "NOES",
-      "OHS",
-      "ONE",
-      "SHOE"
-    ]
-  },
-  {
-    "letters": "ARATP",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "APART",
-        "r": 0,
-        "c": 1,
-        "d": "A"
       },
       {
-        "w": "PART",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "RAT",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "ART",
-        "r": 3,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "TRAP",
-        "r": 1,
-        "c": 0,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "APT",
-      "PAR",
-      "PAT",
-      "RAP",
-      "RAPT",
-      "TAP",
-      "TAR",
-      "TARP"
-    ]
-  },
-  {
-    "letters": "SPOED",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "POSED",
-        "r": 3,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "DOSE",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "POSE",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "SOD",
-        "r": 1,
-        "c": 3,
-        "d": "A"
-      },
-      {
-        "w": "DOES",
-        "r": 5,
-        "c": 0,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DOE",
-      "DOPE",
-      "DOPES",
-      "DOS",
-      "ODE",
-      "ODES",
-      "POD",
-      "PODS",
-      "SOP",
-      "SPED"
-    ]
-  },
-  {
-    "letters": "RTTAS",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "START",
+        "w": "ROAD",
         "r": 4,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "SAT",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "RAT",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "STAR",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "ART",
-        "r": 0,
+        "w": "BAR",
+        "r": 3,
         "c": 2,
         "d": "D"
       }
     ],
     "bonus": [
-      "ARTS",
-      "RATS",
-      "TAR",
-      "TARS",
-      "TART",
-      "TARTS"
+      "ADO",
+      "BARD",
+      "BOA",
+      "BOAR",
+      "BRA",
+      "DAB",
+      "DRAB",
+      "OAR",
+      "ROB",
+      "ROD"
     ]
   },
   {
-    "letters": "OLWBN",
+    "letters": "NBWOR",
     "rows": 5,
     "cols": 5,
     "words": [
       {
-        "w": "BLOWN",
+        "w": "BROWN",
         "r": 0,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "BLOW",
+        "w": "BORN",
         "r": 0,
         "c": 0,
         "d": "D"
@@ -1047,19 +320,71 @@
     ],
     "bonus": [
       "BOW",
-      "BOWL",
-      "LOB",
-      "LOW",
-      "OWL"
+      "BROW",
+      "NOR",
+      "ROB",
+      "ROW",
+      "WORN"
     ]
   },
   {
-    "letters": "NWIGS",
+    "letters": "LREMA",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "REALM",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "MALE",
+        "r": 1,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "ARE",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "REAL",
+        "r": 4,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "ARM",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "ALE",
+      "EAR",
+      "EARL",
+      "ELM",
+      "ERA",
+      "LAME",
+      "LAMER",
+      "MAR",
+      "MARE",
+      "MEAL",
+      "RAM",
+      "REAM"
+    ]
+  },
+  {
+    "letters": "NSUIG",
     "rows": 6,
     "cols": 6,
     "words": [
       {
-        "w": "SWING",
+        "w": "SUING",
         "r": 3,
         "c": 0,
         "d": "A"
@@ -1071,10 +396,10 @@
         "d": "D"
       },
       {
-        "w": "WING",
-        "r": 5,
+        "w": "SUN",
+        "r": 3,
         "c": 0,
-        "d": "A"
+        "d": "D"
       },
       {
         "w": "SING",
@@ -1083,7 +408,7 @@
         "d": "D"
       },
       {
-        "w": "WIN",
+        "w": "SIN",
         "r": 1,
         "c": 3,
         "d": "A"
@@ -1092,944 +417,1147 @@
     "bonus": [
       "GIN",
       "GINS",
+      "GNU",
+      "GNUS",
+      "GUN",
+      "GUNS",
       "INS",
-      "SIN",
-      "SWIG",
-      "WIG",
-      "WIGS",
-      "WINGS",
-      "WINS"
+      "SNUG",
+      "SUNG",
+      "USING"
     ]
   },
   {
-    "letters": "ZENDO",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "DOZEN",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "ONE",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "DONE",
-        "r": 1,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "DON",
-        "r": 0,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "END",
-        "r": 4,
-        "c": 1,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DEN",
-      "DOE",
-      "DOZE",
-      "EON",
-      "NOD",
-      "NODE",
-      "ODE",
-      "ZONE",
-      "ZONED"
-    ]
-  },
-  {
-    "letters": "WRPOE",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "POWER",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "ROPE",
-        "r": 1,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "OWE",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "PER",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "ROW",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "ORE",
-      "PEW",
-      "PORE",
-      "PRO",
-      "PROW",
-      "REP",
-      "ROE",
-      "WOE",
-      "WORE"
-    ]
-  },
-  {
-    "letters": "HIRTS",
-    "rows": 5,
-    "cols": 5,
-    "words": [
-      {
-        "w": "SHIRT",
-        "r": 1,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "SIR",
-        "r": 1,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "SIT",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "THIS",
-        "r": 1,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "HIS",
-        "r": 4,
-        "c": 2,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "HIT",
-      "HITS",
-      "ITS",
-      "STIR"
-    ]
-  },
-  {
-    "letters": "DSWRO",
+    "letters": "ERVAD",
     "rows": 6,
     "cols": 6,
     "words": [
       {
-        "w": "SWORD",
-        "r": 0,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "WORDS",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "ROW",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "ROD",
-        "r": 3,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "SOD",
-        "r": 4,
-        "c": 2,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DOS",
-      "RODS",
-      "ROWS",
-      "SOW",
-      "WORD"
-    ]
-  },
-  {
-    "letters": "EPDKIC",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "PICKED",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "DECK",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "PICK",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "PIE",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "KID",
-        "r": 5,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "DIE",
-        "r": 2,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "ICE",
-        "r": 4,
-        "c": 3,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DICE",
-      "DIKE",
-      "DIP",
-      "EPIC",
-      "ICED",
-      "PECK",
-      "PIKE",
-      "PIKED"
-    ]
-  },
-  {
-    "letters": "KOTERS",
-    "rows": 7,
-    "cols": 7,
-    "words": [
-      {
-        "w": "STROKE",
-        "r": 3,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "SORE",
-        "r": 3,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "SORT",
-        "r": 2,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "STORE",
-        "r": 5,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "ROSE",
-        "r": 0,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "REST",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "SET",
-        "r": 4,
-        "c": 6,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "ORE",
-      "ORES",
-      "ROE",
-      "ROES",
-      "ROT",
-      "ROTE",
-      "ROTS",
-      "STOKE",
-      "STORK",
-      "TOE",
-      "TOES",
-      "TORE",
-      "TREK",
-      "TREKS"
-    ]
-  },
-  {
-    "letters": "REARED",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "REREAD",
+        "w": "RAVED",
         "r": 2,
         "c": 0,
         "d": "A"
       },
       {
         "w": "READ",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "RED",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "DARE",
-        "r": 2,
-        "c": 5,
+        "r": 0,
+        "c": 1,
         "d": "D"
       },
       {
         "w": "DEAR",
+        "r": 1,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "RED",
         "r": 4,
-        "c": 2,
+        "c": 3,
         "d": "A"
       },
       {
         "w": "ARE",
         "r": 0,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "EAR",
-        "r": 0,
         "c": 0,
         "d": "A"
       }
     ],
     "bonus": [
-      "DEARER",
-      "DEER",
+      "DARE",
+      "EAR",
       "ERA",
-      "ERR",
-      "ERRED",
-      "RARE",
-      "RARED",
-      "READER",
-      "REAR",
-      "REARED",
-      "REED"
+      "RAVE",
+      "REV"
     ]
   },
   {
-    "letters": "RCEPPO",
+    "letters": "ERANA",
     "rows": 6,
     "cols": 6,
     "words": [
       {
-        "w": "COPPER",
-        "r": 2,
-        "c": 0,
+        "w": "ARENA",
+        "r": 4,
+        "c": 1,
         "d": "A"
       },
       {
-        "w": "CORE",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "POPE",
-        "r": 2,
+        "w": "NEAR",
+        "r": 1,
         "c": 2,
         "d": "D"
       },
       {
-        "w": "ROPE",
-        "r": 4,
+        "w": "AREA",
+        "r": 1,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "RAN",
+        "r": 1,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "PER",
+        "w": "ARE",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "EAR",
+      "EARN",
+      "ERA"
+    ]
+  },
+  {
+    "letters": "ORCTU",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "COURT",
+        "r": 1,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "CUT",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "OUT",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "TOUR",
         "r": 1,
         "c": 4,
         "d": "D"
       },
       {
-        "w": "PRO",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "POP",
-        "r": 0,
-        "c": 1,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "COP",
-      "COPE",
-      "CROP",
-      "ORE",
-      "PEP",
-      "PORE",
-      "PREP",
-      "PROP",
-      "REP",
-      "ROE"
-    ]
-  },
-  {
-    "letters": "ATNOIB",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "OBTAIN",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "BOAT",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "INTO",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "BIT",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "BAT",
+        "w": "OUR",
         "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "TIN",
-        "r": 0,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "NOT",
-        "r": 5,
-        "c": 3,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "ANT",
-      "BAIT",
-      "BAN",
-      "BANI",
-      "BATON",
-      "BIN",
-      "BOA",
-      "ION",
-      "IOTA",
-      "NAB",
-      "NIT",
-      "OAT",
-      "TAB",
-      "TAN",
-      "TON"
-    ]
-  },
-  {
-    "letters": "MUCTOS",
-    "rows": 7,
-    "cols": 7,
-    "words": [
-      {
-        "w": "CUSTOM",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "COST",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "SUM",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "MUST",
-        "r": 2,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "CUTS",
-        "r": 5,
-        "c": 3,
-        "d": "A"
-      },
-      {
-        "w": "OUT",
-        "r": 0,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "MOST",
-        "r": 0,
         "c": 2,
         "d": "A"
       }
     ],
     "bonus": [
       "COT",
-      "COTS",
-      "CUMS",
-      "CUT",
-      "OUST",
-      "OUTS",
-      "SCOUT",
-      "SCUM"
+      "CUR",
+      "CURT",
+      "ROT",
+      "ROUT",
+      "RUT"
     ]
   },
   {
-    "letters": "ETEMLH",
-    "rows": 7,
-    "cols": 7,
+    "letters": "EIALN",
+    "rows": 5,
+    "cols": 5,
     "words": [
       {
-        "w": "HELMET",
+        "w": "ALIEN",
         "r": 2,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "THEM",
+        "w": "LINE",
+        "r": 1,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "LIE",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "NAIL",
         "r": 1,
         "c": 0,
         "d": "D"
       },
       {
-        "w": "MEET",
-        "r": 4,
+        "w": "LANE",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "AIL",
+      "ALE",
+      "LAIN",
+      "LEAN",
+      "LIEN",
+      "NIL"
+    ]
+  },
+  {
+    "letters": "IKLED",
+    "rows": 6,
+    "cols": 6,
+    "words": [
+      {
+        "w": "LIKED",
+        "r": 2,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "MET",
+        "w": "LIKE",
         "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "LIED",
+        "r": 0,
         "c": 3,
         "d": "D"
       },
       {
-        "w": "THEE",
-        "r": 2,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "THE",
+        "w": "LIE",
         "r": 0,
-        "c": 4,
-        "d": "D"
+        "c": 3,
+        "d": "A"
       },
       {
-        "w": "LET",
-        "r": 5,
-        "c": 4,
+        "w": "KID",
+        "r": 4,
+        "c": 0,
         "d": "A"
       }
     ],
     "bonus": [
-      "EEL",
-      "ELM",
-      "HEEL",
-      "HELM",
-      "HEM",
-      "LEE",
-      "MELT",
-      "METE",
-      "TEE",
-      "TEEM",
-      "THEME"
+      "DELI",
+      "DIE",
+      "DIKE",
+      "ELK",
+      "IDLE",
+      "ILK",
+      "LED",
+      "LID"
     ]
   },
   {
-    "letters": "SETTER",
-    "rows": 7,
-    "cols": 7,
+    "letters": "NARDW",
+    "rows": 6,
+    "cols": 6,
     "words": [
       {
-        "w": "STREET",
-        "r": 6,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "TREES",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "STEER",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "REST",
-        "r": 3,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "SET",
-        "r": 4,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "TEST",
+        "w": "DRAWN",
         "r": 2,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "SEE",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "RESET",
-      "SEER",
-      "SETTER",
-      "TEE",
-      "TEES",
-      "TERSE",
-      "TESTER",
-      "TREE"
-    ]
-  },
-  {
-    "letters": "AEBDNN",
-    "rows": 7,
-    "cols": 7,
-    "words": [
-      {
-        "w": "BANNED",
-        "r": 4,
+        "w": "DAWN",
+        "r": 2,
         "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "BEND",
-        "r": 2,
-        "c": 2,
         "d": "D"
-      },
-      {
-        "w": "BAND",
-        "r": 2,
-        "c": 2,
-        "d": "A"
       },
       {
         "w": "AND",
-        "r": 0,
-        "c": 5,
+        "r": 2,
+        "c": 2,
         "d": "D"
       },
       {
-        "w": "BED",
+        "w": "DRAW",
         "r": 4,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "BAD",
-        "r": 0,
-        "c": 4,
+        "c": 2,
         "d": "A"
       },
       {
-        "w": "END",
-        "r": 4,
+        "w": "RAN",
+        "r": 0,
         "c": 4,
         "d": "D"
       }
     ],
     "bonus": [
-      "BADE",
-      "BAN",
-      "BANE",
-      "BEAD",
-      "BEAN",
-      "DAB",
-      "DEAN",
-      "DEN",
-      "NAB"
+      "DARN",
+      "RAW",
+      "WAD",
+      "WAN",
+      "WAND",
+      "WAR",
+      "WARD",
+      "WARN"
     ]
   },
   {
-    "letters": "HODEMT",
+    "letters": "DPOES",
     "rows": 6,
     "cols": 6,
     "words": [
       {
-        "w": "METHOD",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "THEM",
-        "r": 1,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "HOME",
+        "w": "POSED",
         "r": 2,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "HOT",
-        "r": 3,
+        "w": "DOSE",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "SOD",
+        "r": 0,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "DOE",
+        "r": 2,
         "c": 4,
         "d": "D"
       },
       {
-        "w": "TOE",
+        "w": "POSE",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "DOES",
+      "DOPE",
+      "DOPES",
+      "DOS",
+      "ODE",
+      "ODES",
+      "POD",
+      "PODS",
+      "SOP",
+      "SPED"
+    ]
+  },
+  {
+    "letters": "PTSEU",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "UPSET",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "SET",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "STEP",
+        "r": 4,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "PUT",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "USE",
+        "r": 0,
+        "c": 3,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "PEST",
+      "PET",
+      "PETS",
+      "PUS",
+      "PUTS",
+      "SETUP",
+      "SUE",
+      "SUP",
+      "UPS"
+    ]
+  },
+  {
+    "letters": "AESRE",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "ERASE",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "EARS",
+        "r": 0,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "ARE",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "SEE",
+        "r": 2,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "SEA",
+        "r": 4,
+        "c": 2,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "ARES",
+      "EAR",
+      "EASE",
+      "ERA",
+      "ERAS",
+      "SEAR",
+      "SEER"
+    ]
+  },
+  {
+    "letters": "ESMHA",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "SHAME",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "SAME",
+        "r": 1,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "HAS",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "SHE",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "SEA",
+        "r": 1,
+        "c": 4,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "ASH",
+      "HAM",
+      "HAMS",
+      "HEM",
+      "HEMS",
+      "HES",
+      "MAS",
+      "MASH",
+      "MES",
+      "MESH",
+      "SEAM",
+      "SHAM"
+    ]
+  },
+  {
+    "letters": "ARMNO",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "ROMAN",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "MAN",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "ARM",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "RAN",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "NOR",
+        "r": 4,
+        "c": 2,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "MANOR",
+      "MAR",
+      "MOAN",
+      "MORN",
+      "NORM",
+      "OAR",
+      "RAM",
+      "ROAM"
+    ]
+  },
+  {
+    "letters": "VEIDL",
+    "rows": 6,
+    "cols": 6,
+    "words": [
+      {
+        "w": "LIVED",
+        "r": 2,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "LIED",
+        "r": 2,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "LIVE",
         "r": 0,
         "c": 3,
         "d": "D"
       },
       {
-        "w": "THE",
+        "w": "LIE",
         "r": 0,
         "c": 3,
         "d": "A"
       },
       {
-        "w": "MET",
+        "w": "LED",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "DELI",
+      "DEVIL",
+      "DIE",
+      "DIVE",
+      "EVIL",
+      "IDLE",
+      "LID",
+      "VEIL",
+      "VIE",
+      "VIED",
+      "VILE"
+    ]
+  },
+  {
+    "letters": "BUAOT",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "ABOUT",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "BOAT",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "BAT",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "OUT",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "BUT",
+        "r": 0,
+        "c": 0,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "AUTO",
+      "BOA",
+      "BOUT",
+      "OAT",
+      "TAB",
+      "TUB",
+      "TUBA"
+    ]
+  },
+  {
+    "letters": "ASTRT",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "START",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "SAT",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "STAR",
+        "r": 1,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "RAT",
+        "r": 0,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "ART",
         "r": 2,
         "c": 2,
         "d": "D"
       }
     ],
     "bonus": [
-      "DEMO",
-      "DOE",
-      "DOME",
-      "DOT",
-      "DOTE",
-      "HEM",
-      "HOE",
-      "HOED",
-      "HOMED",
-      "MOD",
-      "MODE",
-      "MOTH",
-      "ODE",
-      "OHM",
-      "TOED",
-      "TOME"
+      "ARTS",
+      "RATS",
+      "TAR",
+      "TARS",
+      "TART",
+      "TARTS"
     ]
   },
   {
-    "letters": "TRHSUT",
+    "letters": "WIOGN",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "OWING",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "WIN",
+        "r": 2,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "OWN",
+        "r": 0,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "WON",
+        "r": 0,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "NOW",
+        "r": 4,
+        "c": 1,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "GIN",
+      "GOWN",
+      "ION",
+      "WIG",
+      "WING",
+      "WINO"
+    ]
+  },
+  {
+    "letters": "PASEC",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "SPACE",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "CASE",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "SEA",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "CAP",
+        "r": 2,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "ACE",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "ACES",
+      "APE",
+      "APES",
+      "CAPE",
+      "CAPES",
+      "CAPS",
+      "PACE",
+      "PACES",
+      "PAS",
+      "PEA",
+      "PEAS",
+      "SAC",
+      "SAP",
+      "SPA"
+    ]
+  },
+  {
+    "letters": "DVLIA",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "VALID",
+        "r": 0,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "LAID",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "DIAL",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "AID",
+        "r": 3,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "LAD",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "AIL",
+      "AVID",
+      "LID",
+      "VIA",
+      "VIAL"
+    ]
+  },
+  {
+    "letters": "DARYI",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "DIARY",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "DAY",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "RID",
+        "r": 2,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "RAY",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "AIR",
+        "r": 0,
+        "c": 2,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "AID",
+      "AIRY",
+      "ARID",
+      "DAIRY",
+      "DRY",
+      "RAID",
+      "YARD"
+    ]
+  },
+  {
+    "letters": "RAIGN",
+    "rows": 5,
+    "cols": 5,
+    "words": [
+      {
+        "w": "GRAIN",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "RING",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "RAIN",
+        "r": 1,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "AIR",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "RAN",
+        "r": 2,
+        "c": 4,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "GAIN",
+      "GIN",
+      "GRIN",
+      "NAG",
+      "RAG",
+      "RANG",
+      "RIG"
+    ]
+  },
+  {
+    "letters": "CUSNOI",
     "rows": 7,
     "cols": 7,
     "words": [
       {
-        "w": "THRUST",
-        "r": 3,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "TRUTH",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "HURT",
-        "r": 0,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "TRUST",
-        "r": 1,
+        "w": "COUSIN",
+        "r": 2,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "RUSH",
-        "r": 3,
-        "c": 3,
+        "w": "COINS",
+        "r": 2,
+        "c": 0,
         "d": "D"
       },
       {
-        "w": "SHUT",
-        "r": 3,
+        "w": "CON",
+        "r": 0,
         "c": 5,
         "d": "D"
       },
       {
-        "w": "HUT",
+        "w": "SUN",
+        "r": 1,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "ICON",
+        "r": 2,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "SIN",
         "r": 6,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "SON",
+        "r": 4,
         "c": 3,
         "d": "A"
       }
     ],
     "bonus": [
-      "HURTS",
-      "HUTS",
-      "RUST",
-      "RUT",
-      "RUTS",
-      "STRUT",
-      "THUS",
-      "TRUTHS",
-      "TUSH"
+      "COIN",
+      "CONS",
+      "ICONS",
+      "INS",
+      "ION",
+      "IONS",
+      "ONUS",
+      "SIC",
+      "SONIC"
     ]
   },
   {
-    "letters": "LOLEDR",
-    "rows": 6,
-    "cols": 6,
+    "letters": "EKOCLD",
+    "rows": 8,
+    "cols": 8,
     "words": [
       {
-        "w": "ROLLED",
-        "r": 5,
+        "w": "LOCKED",
+        "r": 3,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "OLDER",
-        "r": 1,
+        "w": "LED",
+        "r": 3,
         "c": 0,
         "d": "D"
       },
       {
-        "w": "RED",
-        "r": 3,
+        "w": "COLD",
+        "r": 0,
         "c": 5,
         "d": "D"
       },
       {
-        "w": "ROLL",
-        "r": 2,
+        "w": "LOCK",
+        "r": 0,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "CODE",
+        "r": 3,
         "c": 2,
         "d": "D"
       },
       {
-        "w": "LORD",
-        "r": 2,
-        "c": 0,
+        "w": "DECK",
+        "r": 5,
+        "c": 2,
         "d": "A"
       },
       {
         "w": "OLD",
+        "r": 1,
+        "c": 5,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "CLOD",
+      "COD",
+      "COED",
+      "COKE",
+      "COKED",
+      "DOCK",
+      "DOE",
+      "DOLE",
+      "ELK",
+      "ODE"
+    ]
+  },
+  {
+    "letters": "INAURF",
+    "rows": 6,
+    "cols": 6,
+    "words": [
+      {
+        "w": "UNFAIR",
+        "r": 1,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "FAIR",
         "r": 0,
         "c": 3,
         "d": "D"
       },
       {
-        "w": "LED",
+        "w": "RUN",
         "r": 1,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "RAN",
+        "r": 3,
         "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "AIR",
+        "r": 3,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "FAR",
+        "r": 5,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "FUN",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "FAN",
+      "FIN",
+      "FIR",
+      "FUR",
+      "RAIN",
+      "RUIN",
+      "URN"
+    ]
+  },
+  {
+    "letters": "CORRED",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "RECORD",
+        "r": 3,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "RODE",
+        "r": 3,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "ORDER",
+        "r": 2,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "CORE",
+        "r": 3,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "CODE",
+        "r": 0,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "RED",
+        "r": 6,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "ROD",
+        "r": 1,
+        "c": 0,
         "d": "A"
       }
     ],
     "bonus": [
+      "COD",
+      "COED",
+      "CORD",
+      "CORED",
+      "CREDO",
+      "DECOR",
       "DOE",
       "DOER",
-      "DOLE",
-      "DOLL",
-      "DROLL",
-      "LORE",
+      "ERR",
       "ODE",
       "ORE",
       "REDO",
-      "ROD",
-      "RODE",
-      "ROE",
-      "ROLE"
+      "ROE"
     ]
   },
   {
-    "letters": "NBGROI",
+    "letters": "NGBIRO",
     "rows": 8,
     "cols": 8,
     "words": [
@@ -2046,15 +1574,15 @@
         "d": "D"
       },
       {
+        "w": "IRON",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
         "w": "BORN",
         "r": 3,
         "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "NOR",
-        "r": 3,
-        "c": 5,
         "d": "D"
       },
       {
@@ -2064,10 +1592,10 @@
         "d": "D"
       },
       {
-        "w": "IRON",
-        "r": 5,
-        "c": 0,
-        "d": "A"
+        "w": "NOR",
+        "r": 3,
+        "c": 5,
+        "d": "D"
       },
       {
         "w": "BIG",
@@ -2093,1096 +1621,395 @@
     ]
   },
   {
-    "letters": "TELFNU",
+    "letters": "KBIGNA",
     "rows": 7,
     "cols": 7,
     "words": [
       {
-        "w": "FLUENT",
-        "r": 3,
+        "w": "BAKING",
+        "r": 0,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "FUEL",
+        "w": "BANG",
         "r": 0,
-        "c": 1,
+        "c": 0,
         "d": "D"
       },
       {
-        "w": "LEFT",
-        "r": 2,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "FELT",
+        "w": "GAIN",
         "r": 0,
         "c": 5,
         "d": "D"
       },
       {
-        "w": "LET",
-        "r": 1,
-        "c": 4,
+        "w": "BANK",
+        "r": 3,
+        "c": 3,
         "d": "A"
       },
       {
-        "w": "TEN",
+        "w": "BAG",
+        "r": 3,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "KING",
         "r": 5,
-        "c": 3,
-        "d": "A"
-      },
-      {
-        "w": "FUN",
-        "r": 0,
-        "c": 1,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "ELF",
-      "FEN",
-      "FLU",
-      "FLUE",
-      "FLUTE",
-      "LENT",
-      "LUTE",
-      "NET",
-      "NUT",
-      "TUNE"
-    ]
-  },
-  {
-    "letters": "WEHGTI",
-    "rows": 7,
-    "cols": 7,
-    "words": [
-      {
-        "w": "WEIGHT",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "WHITE",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "GET",
-        "r": 2,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "EIGHT",
-        "r": 4,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "THE",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "WITH",
-        "r": 0,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "HIT",
+        "w": "BIG",
         "r": 4,
-        "c": 3,
+        "c": 1,
         "d": "D"
       }
     ],
     "bonus": [
-      "HEW",
-      "TIE",
-      "TWIG",
-      "WEIGH",
-      "WET",
-      "WHET",
-      "WIG",
-      "WIT"
-    ]
-  },
-  {
-    "letters": "SUIMES",
-    "rows": 6,
-    "cols": 6,
-    "words": [
-      {
-        "w": "MISUSE",
-        "r": 0,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "ISSUE",
-        "r": 0,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "MESS",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "MISS",
-        "r": 2,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "SUE",
-        "r": 5,
-        "c": 3,
-        "d": "A"
-      },
-      {
-        "w": "USE",
-        "r": 3,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "SUM",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "MES",
-      "MUSE",
-      "MUSES",
-      "MUSS",
-      "SUES",
-      "SUMS",
-      "USES"
-    ]
-  },
-  {
-    "letters": "COTEHL",
-    "rows": 7,
-    "cols": 7,
-    "words": [
-      {
-        "w": "CLOTHE",
-        "r": 5,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "HOTEL",
-        "r": 1,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "LOT",
-        "r": 3,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "LET",
-        "r": 3,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "HOLE",
-        "r": 1,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "THE",
-        "r": 3,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "HOT",
-        "r": 3,
-        "c": 0,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "CLOT",
-      "CLOTH",
-      "COLT",
-      "COT",
-      "ECHO",
-      "ETCH",
-      "HOE",
-      "TOE"
-    ]
-  },
-  {
-    "letters": "RWAPUD",
-    "rows": 7,
-    "cols": 7,
-    "words": [
-      {
-        "w": "UPWARD",
-        "r": 3,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "WARD",
-        "r": 3,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "RAW",
-        "r": 3,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "WRAP",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "PAD",
-        "r": 1,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "DRAW",
-        "r": 5,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "WAR",
-        "r": 1,
-        "c": 0,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "PAR",
-      "PAW",
-      "RAP",
-      "WAD",
-      "WARP"
-    ]
-  },
-  {
-    "letters": "YHWBREE",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "WHEREBY",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "WHERE",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "WERE",
-        "r": 1,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "BYE",
-        "r": 2,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "HERE",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "WHY",
-        "r": 0,
-        "c": 7,
-        "d": "D"
-      },
-      {
-        "w": "HER",
-        "r": 4,
-        "c": 5,
-        "d": "A"
-      },
-      {
-        "w": "EYE",
-        "r": 6,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "HEY",
-        "r": 4,
-        "c": 5,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "BEE",
-      "BEER",
-      "BREW",
-      "EWE",
-      "HERB",
-      "HEREBY",
-      "HEW",
-      "RYE",
-      "WEB",
-      "WEE",
-      "WEER",
-      "WRY",
-      "YEW"
-    ]
-  },
-  {
-    "letters": "DVIEGNN",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "VENDING",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "ENDING",
-        "r": 1,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "NINE",
-        "r": 2,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "GIVEN",
-        "r": 4,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "END",
-        "r": 5,
-        "c": 5,
-        "d": "A"
-      },
-      {
-        "w": "DIVE",
-        "r": 0,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "DIE",
-        "r": 5,
-        "c": 7,
-        "d": "D"
-      },
-      {
-        "w": "GIVE",
-        "r": 7,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "DIG",
-        "r": 0,
-        "c": 6,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "DEIGN",
-      "DEN",
-      "DIN",
-      "DINE",
+      "AKIN",
+      "BAN",
+      "BANI",
+      "BIN",
+      "GAB",
       "GIN",
-      "GINNED",
-      "INN",
-      "VEIN",
-      "VEND",
-      "VIE",
-      "VIED",
-      "VINE"
+      "INK",
+      "KIN",
+      "NAB",
+      "NAG"
     ]
   },
   {
-    "letters": "DEEORFF",
+    "letters": "VNOCIE",
     "rows": 8,
     "cols": 8,
     "words": [
       {
-        "w": "OFFERED",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "FEED",
-        "r": 4,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "FREE",
-        "r": 2,
-        "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "OFFER",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "RED",
-        "r": 6,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "OFF",
-        "r": 0,
+        "w": "NOVICE",
+        "r": 3,
         "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "ROD",
-        "r": 0,
-        "c": 1,
         "d": "A"
       },
       {
-        "w": "FOR",
-        "r": 0,
-        "c": 5,
+        "w": "VOICE",
+        "r": 3,
+        "c": 4,
         "d": "D"
       },
       {
-        "w": "FED",
-        "r": 0,
-        "c": 5,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "DEER",
-      "DEFER",
-      "DOE",
-      "DOER",
-      "ERODE",
-      "FEE",
-      "FER",
-      "FOE",
-      "FORD",
-      "FORE",
-      "FREED",
-      "FRO",
-      "ODE",
-      "OFFED",
-      "ORE",
-      "REDO",
-      "REED",
-      "REEF",
-      "REF",
-      "REFFED",
-      "RODE",
-      "ROE"
-    ]
-  },
-  {
-    "letters": "UIQAECR",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "ACQUIRE",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "AIR",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "EAR",
-        "r": 2,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "CURE",
-        "r": 1,
+        "w": "NICE",
+        "r": 5,
         "c": 3,
-        "d": "D"
-      },
-      {
-        "w": "RACE",
-        "r": 4,
-        "c": 0,
         "d": "A"
       },
       {
-        "w": "CARE",
-        "r": 4,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "ARE",
+        "w": "ONCE",
         "r": 7,
-        "c": 0,
+        "c": 1,
         "d": "A"
       },
       {
-        "w": "CAR",
+        "w": "VICE",
         "r": 0,
-        "c": 5,
+        "c": 7,
+        "d": "D"
+      },
+      {
+        "w": "ONE",
+        "r": 2,
+        "c": 2,
         "d": "D"
       },
       {
         "w": "ICE",
-        "r": 0,
-        "c": 4,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "ACE",
-      "ACRE",
-      "ARC",
-      "CUE",
-      "CUR",
-      "ERA",
-      "IRE",
-      "QUA",
-      "RICE",
-      "RUE"
-    ]
-  },
-  {
-    "letters": "TOLOEBK",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "BOOKLET",
-        "r": 2,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "BOOK",
-        "r": 2,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "TOOK",
-        "r": 2,
-        "c": 7,
-        "d": "D"
-      },
-      {
-        "w": "LOOK",
-        "r": 5,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "BELT",
-        "r": 0,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "LET",
-        "r": 5,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "LOT",
-        "r": 7,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "TOO",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "BET",
-        "r": 0,
+        "r": 4,
         "c": 0,
         "d": "A"
       }
     ],
     "bonus": [
-      "BLOT",
-      "BOLT",
-      "BOO",
-      "BOOT",
-      "ELK",
-      "LOB",
-      "LOBE",
-      "LOOT",
-      "OBOE",
-      "TOE",
-      "TOOL"
-    ]
-  },
-  {
-    "letters": "ONEEYJD",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "ENJOYED",
-        "r": 4,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "NEED",
-        "r": 3,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "DONE",
-        "r": 6,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "DON",
-        "r": 4,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "ENJOY",
-        "r": 0,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "JOY",
-        "r": 2,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "EYE",
-        "r": 0,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "END",
-        "r": 6,
-        "c": 5,
-        "d": "A"
-      },
-      {
-        "w": "ONE",
-        "r": 4,
-        "c": 3,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "DEN",
-      "DENY",
-      "DOE",
-      "DYE",
+      "COIN",
+      "CON",
+      "CONE",
+      "COVE",
       "EON",
-      "EYED",
-      "JOYED",
-      "NEEDY",
-      "NOD",
-      "NODE",
-      "ODE",
-      "YEN"
+      "ICON",
+      "ION",
+      "OVEN",
+      "VEIN",
+      "VIE",
+      "VINE"
     ]
   },
   {
-    "letters": "RRBEZAI",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "BIZARRE",
-        "r": 1,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "BARE",
-        "r": 1,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "RARE",
-        "r": 1,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "REAR",
-        "r": 3,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "BEAR",
-        "r": 4,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "EAR",
-        "r": 2,
-        "c": 7,
-        "d": "D"
-      },
-      {
-        "w": "ARE",
-        "r": 3,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "BAR",
-        "r": 4,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "AIR",
-        "r": 1,
-        "c": 3,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "BARER",
-      "BRA",
-      "BRAZIER",
-      "ERA",
-      "ERR",
-      "IRE",
-      "RAZE",
-      "RIB",
-      "ZEBRA"
-    ]
-  },
-  {
-    "letters": "QTEUIYL",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "QUIETLY",
-        "r": 4,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "QUITE",
-        "r": 3,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "QUIET",
-        "r": 1,
-        "c": 4,
-        "d": "D"
-      },
-      {
-        "w": "QUIT",
-        "r": 2,
-        "c": 3,
-        "d": "A"
-      },
-      {
-        "w": "TIE",
-        "r": 7,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "LIE",
-        "r": 4,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "LET",
-        "r": 6,
-        "c": 5,
-        "d": "A"
-      },
-      {
-        "w": "LIT",
-        "r": 5,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "YET",
-        "r": 0,
-        "c": 6,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "EQUITY",
-      "LIEU",
-      "LITE",
-      "LUTE",
-      "LYE",
-      "QUILT",
-      "TILE",
-      "YETI"
-    ]
-  },
-  {
-    "letters": "OEKBCLD",
-    "rows": 9,
-    "cols": 9,
-    "words": [
-      {
-        "w": "BLOCKED",
-        "r": 4,
-        "c": 2,
-        "d": "A"
-      },
-      {
-        "w": "BLOCK",
-        "r": 4,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "LOCKED",
-        "r": 2,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "CODE",
-        "r": 2,
-        "c": 8,
-        "d": "D"
-      },
-      {
-        "w": "LOCK",
-        "r": 7,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "COLD",
-        "r": 2,
-        "c": 3,
-        "d": "A"
-      },
-      {
-        "w": "BED",
-        "r": 6,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "OLD",
-        "r": 6,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "LED",
-        "r": 0,
-        "c": 6,
-        "d": "D"
-      }
-    ],
-    "bonus": [
-      "BLED",
-      "BLOC",
-      "BODE",
-      "BOLD",
-      "CLOD",
-      "COB",
-      "COD",
-      "COED",
-      "COKE",
-      "COKED",
-      "DECK",
-      "DOCK",
-      "DOE",
-      "DOLE",
-      "ELK",
-      "LOB",
-      "LOBE",
-      "ODE"
-    ]
-  },
-  {
-    "letters": "IGEELMA",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "MILEAGE",
-        "r": 3,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "IMAGE",
-        "r": 3,
-        "c": 1,
-        "d": "D"
-      },
-      {
-        "w": "MEAL",
-        "r": 7,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "MALE",
-        "r": 5,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "GAME",
-        "r": 3,
-        "c": 5,
-        "d": "D"
-      },
-      {
-        "w": "MAIL",
-        "r": 0,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "LEG",
-        "r": 6,
-        "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "LIE",
-        "r": 1,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "AGE",
-        "r": 1,
-        "c": 2,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "AGILE",
-      "AIL",
-      "AIM",
-      "ALE",
-      "EAGLE",
-      "EEL",
-      "ELM",
-      "EMAIL",
-      "GAL",
-      "GALE",
-      "GEE",
-      "GEL",
-      "GEM",
-      "GLEAM",
-      "GLEE",
-      "LAG",
-      "LAME",
-      "LEE",
-      "LIME",
-      "MEG",
-      "MILE"
-    ]
-  },
-  {
-    "letters": "SIOTKMO",
+    "letters": "DALRLO",
     "rows": 7,
     "cols": 7,
     "words": [
       {
-        "w": "MISTOOK",
-        "r": 2,
+        "w": "DOLLAR",
+        "r": 1,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "LORD",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "LOAD",
+        "r": 1,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "OLD",
+        "r": 3,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "MIST",
+        "w": "ROAD",
         "r": 2,
         "c": 0,
         "d": "D"
       },
       {
-        "w": "MOST",
+        "w": "ROLL",
         "r": 1,
-        "c": 5,
+        "c": 6,
         "d": "D"
       },
       {
-        "w": "SIT",
+        "w": "ALL",
+        "r": 3,
+        "c": 4,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "ADO",
+      "DOLL",
+      "DROLL",
+      "LAD",
+      "LARD",
+      "OAR",
+      "ORAL",
+      "ROD"
+    ]
+  },
+  {
+    "letters": "EDPNOH",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "PHONED",
+        "r": 2,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "PHONE",
+        "r": 2,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "OPEN",
+        "r": 2,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "HOPE",
         "r": 4,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "KITS",
+        "w": "DONE",
+        "r": 2,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "ONE",
         "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "DON",
+        "r": 0,
+        "c": 4,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "DEN",
+      "DOE",
+      "DOPE",
+      "END",
+      "EON",
+      "HEN",
+      "HOE",
+      "HOED",
+      "HONE",
+      "HONED",
+      "HOP",
+      "HOPED",
+      "NOD",
+      "NODE",
+      "NOPE",
+      "ODE",
+      "PEN",
+      "PEON",
+      "POD",
+      "POND"
+    ]
+  },
+  {
+    "letters": "XMTIAR",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "MATRIX",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "AIR",
+        "r": 2,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "ARM",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "TAXI",
+        "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "ART",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "RAT",
+        "r": 0,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "MIX",
+        "r": 4,
+        "c": 2,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "AIM",
+      "MAR",
+      "MART",
+      "MAT",
+      "RAM",
+      "RIM",
+      "TAR",
+      "TAX",
+      "TRIM"
+    ]
+  },
+  {
+    "letters": "RCAOLL",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "COLLAR",
+        "r": 3,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "LOCAL",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "ROLL",
+        "r": 3,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "COAL",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "ALL",
+        "r": 6,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "CALL",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "CAR",
+        "r": 1,
+        "c": 3,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "ARC",
+      "CAROL",
+      "COLA",
+      "CORAL",
+      "OAR",
+      "ORAL"
+    ]
+  },
+  {
+    "letters": "ITTCAS",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "STATIC",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "CAST",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "ACT",
+        "r": 2,
         "c": 3,
         "d": "D"
       },
@@ -3190,177 +2017,1241 @@
         "w": "ITS",
         "r": 4,
         "c": 4,
-        "d": "A"
-      },
-      {
-        "w": "TOO",
-        "r": 4,
-        "c": 2,
         "d": "D"
       },
       {
-        "w": "TOOK",
+        "w": "SAT",
+        "r": 6,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "CAT",
+        "r": 2,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "SIT",
         "r": 0,
+        "c": 4,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "ACTS",
+      "ATTIC",
+      "ATTICS",
+      "CATS",
+      "SAC",
+      "SIC",
+      "TACIT",
+      "TACT",
+      "TIC",
+      "TICS"
+    ]
+  },
+  {
+    "letters": "ADELND",
+    "rows": 6,
+    "cols": 6,
+    "words": [
+      {
+        "w": "LANDED",
+        "r": 3,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "OMIT",
-        "r": 6,
-        "c": 2,
-        "d": "A"
-      }
-    ],
-    "bonus": [
-      "KIT",
-      "MOIST",
-      "MOO",
-      "MOOS",
-      "MOOT",
-      "MOOTS",
-      "OMITS",
-      "SKI",
-      "SKIM",
-      "SKIT",
-      "SOOT"
-    ]
-  },
-  {
-    "letters": "EINEXDD",
-    "rows": 8,
-    "cols": 8,
-    "words": [
-      {
-        "w": "INDEXED",
-        "r": 4,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "DENIED",
-        "r": 2,
-        "c": 2,
+        "w": "DEAL",
+        "r": 0,
+        "c": 0,
         "d": "D"
       },
       {
-        "w": "ENDED",
-        "r": 2,
-        "c": 7,
+        "w": "LAND",
+        "r": 0,
+        "c": 3,
         "d": "D"
       },
       {
-        "w": "INDEED",
-        "r": 1,
+        "w": "END",
+        "r": 3,
         "c": 4,
         "d": "D"
       },
       {
-        "w": "NEED",
-        "r": 6,
-        "c": 1,
-        "d": "A"
-      },
-      {
-        "w": "END",
-        "r": 2,
-        "c": 0,
-        "d": "A"
-      },
-      {
-        "w": "DIED",
+        "w": "LEAD",
         "r": 0,
-        "c": 0,
+        "c": 5,
         "d": "D"
       },
       {
-        "w": "DIE",
-        "r": 1,
-        "c": 3,
+        "w": "AND",
+        "r": 5,
+        "c": 2,
         "d": "A"
       },
       {
-        "w": "DID",
-        "r": 0,
-        "c": 0,
+        "w": "LANE",
+        "r": 1,
+        "c": 2,
         "d": "A"
       }
     ],
     "bonus": [
-      "DEED",
+      "ADD",
+      "ALE",
+      "DAD",
+      "DEAD",
+      "DEAN",
       "DEN",
-      "DIN",
-      "DINE",
-      "DINED",
-      "INDEX"
+      "LAD",
+      "LADE",
+      "LADED",
+      "LADEN",
+      "LEAN",
+      "LED",
+      "LEND"
     ]
   },
   {
-    "letters": "DUNNGIO",
-    "rows": 7,
-    "cols": 7,
+    "letters": "REBNAN",
+    "rows": 6,
+    "cols": 6,
     "words": [
       {
-        "w": "UNDOING",
-        "r": 2,
+        "w": "BANNER",
+        "r": 3,
         "c": 0,
         "d": "A"
       },
       {
-        "w": "UNION",
-        "r": 2,
-        "c": 0,
-        "d": "D"
-      },
-      {
-        "w": "DOING",
-        "r": 2,
-        "c": 2,
-        "d": "D"
-      },
-      {
-        "w": "DOG",
-        "r": 0,
-        "c": 6,
-        "d": "D"
-      },
-      {
-        "w": "DON",
-        "r": 0,
+        "w": "BEAR",
+        "r": 1,
         "c": 1,
         "d": "D"
       },
       {
-        "w": "GUN",
-        "r": 6,
-        "c": 2,
+        "w": "NEAR",
+        "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "BAR",
+        "r": 1,
+        "c": 1,
         "d": "A"
       },
       {
-        "w": "GIN",
+        "w": "EAR",
+        "r": 3,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "ARE",
+        "r": 5,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "RAN",
+        "r": 1,
+        "c": 3,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "BAN",
+      "BANE",
+      "BARE",
+      "BARN",
+      "BEAN",
+      "BRA",
+      "BRAN",
+      "EARN",
+      "ERA",
+      "NAB"
+    ]
+  },
+  {
+    "letters": "TAGIND",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "DATING",
         "r": 4,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "GIANT",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "TAG",
+        "r": 2,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "GAIN",
+        "r": 2,
         "c": 4,
         "d": "D"
       },
       {
         "w": "DIG",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "AND",
         "r": 0,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "AID",
+        "r": 0,
+        "c": 0,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "ANT",
+      "DIN",
+      "GAIT",
+      "GIN",
+      "GNAT",
+      "NAG",
+      "NIT",
+      "TAD",
+      "TAN",
+      "TANG",
+      "TIN",
+      "TING"
+    ]
+  },
+  {
+    "letters": "HHGTOU",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "THOUGH",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "OUGHT",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "GOT",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "TOUGH",
+        "r": 1,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "HUH",
+        "r": 4,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "OUT",
+        "r": 0,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "HOT",
+        "r": 6,
+        "c": 1,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "GOUT",
+      "GUT",
+      "HOG",
+      "HUG",
+      "HUT",
+      "THOU",
+      "THUG",
+      "TOG",
+      "TUG",
+      "UGH"
+    ]
+  },
+  {
+    "letters": "OMHTED",
+    "rows": 6,
+    "cols": 6,
+    "words": [
+      {
+        "w": "METHOD",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "THEM",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "MET",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "HOME",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "TOE",
+        "r": 3,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "THE",
+        "r": 0,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "HOT",
+        "r": 1,
+        "c": 3,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "DEMO",
+      "DOE",
+      "DOME",
+      "DOT",
+      "DOTE",
+      "HEM",
+      "HOE",
+      "HOED",
+      "HOMED",
+      "MOD",
+      "MODE",
+      "MOTH",
+      "ODE",
+      "OHM",
+      "TOED",
+      "TOME"
+    ]
+  },
+  {
+    "letters": "PUERSU",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "PURSUE",
+        "r": 1,
         "c": 1,
         "d": "A"
       },
       {
-        "w": "GOD",
+        "w": "SURE",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "SUPER",
+        "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "PURE",
         "r": 4,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "SUE",
+        "r": 3,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "USE",
+        "r": 3,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "PER",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "PURSE",
+      "PUS",
+      "REP",
+      "REPS",
+      "RUE",
+      "RUES",
+      "RUSE",
+      "SPUR",
+      "SUP",
+      "UPS",
+      "USER",
+      "USURP"
+    ]
+  },
+  {
+    "letters": "AUCLAFT",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "FACTUAL",
+        "r": 2,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "ACTUAL",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "FLAT",
+        "r": 7,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "FAULT",
+        "r": 1,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "FACT",
+        "r": 4,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "FAT",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "CAT",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "CUT",
+        "r": 4,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "ACT",
+        "r": 5,
         "c": 4,
         "d": "A"
       }
     ],
     "bonus": [
+      "CALF",
+      "CULT",
+      "FATAL",
+      "FLU",
+      "TALC"
+    ]
+  },
+  {
+    "letters": "GLIIAMN",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "MAILING",
+        "r": 4,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "AIMING",
+        "r": 2,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "NAIL",
+        "r": 2,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "MAIN",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "MAIL",
+        "r": 2,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "GAIN",
+        "r": 4,
+        "c": 7,
+        "d": "D"
+      },
+      {
+        "w": "AIM",
+        "r": 0,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "GIN",
+        "r": 7,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "MAN",
+        "r": 2,
+        "c": 5,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "AIL",
+      "AILING",
+      "ALIGN",
+      "GAL",
+      "LAG",
+      "LAIN",
+      "LAMING",
+      "LIMING",
+      "MALIGN",
+      "MINI",
+      "NAG",
+      "NIL"
+    ]
+  },
+  {
+    "letters": "EBGOOYD",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "GOODBYE",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "BOY",
+        "r": 3,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "BYE",
+        "r": 4,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "BODY",
+        "r": 1,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "GOOD",
+        "r": 2,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "BEG",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "DOG",
+        "r": 0,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "GOD",
+        "r": 0,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "BED",
+        "r": 6,
+        "c": 3,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "BODE",
+      "BOG",
+      "BOO",
+      "BOOED",
+      "DOE",
+      "DYE",
+      "EDGY",
+      "EGO",
+      "GOB",
+      "GOO",
+      "GOODY",
+      "GOOEY",
+      "OBEY",
+      "OBOE",
+      "ODE"
+    ]
+  },
+  {
+    "letters": "INSGUSI",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "ISSUING",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "USING",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "SIGNS",
+        "r": 3,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "SUNG",
+        "r": 4,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "SUING",
+        "r": 0,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "SINGS",
+        "r": 0,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "SIN",
+        "r": 7,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "GIN",
+        "r": 6,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "SUN",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "GINS",
+      "GNU",
+      "GNUS",
+      "GUN",
+      "GUNS",
+      "INS",
+      "SIGN",
+      "SING",
+      "SINS",
+      "SINUS",
+      "SNUG",
+      "SNUGS",
+      "SUNS"
+    ]
+  },
+  {
+    "letters": "OCKNEDK",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "KNOCKED",
+        "r": 3,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "KNOCK",
+        "r": 3,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "DONE",
+        "r": 3,
+        "c": 7,
+        "d": "D"
+      },
+      {
+        "w": "ONE",
+        "r": 3,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "NECK",
+        "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "DON",
+        "r": 1,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "ONCE",
+        "r": 6,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "CODE",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "END",
+        "r": 0,
+        "c": 4,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "COD",
+      "COED",
+      "COKE",
+      "COKED",
+      "CON",
+      "CONE",
+      "DECK",
+      "DEN",
+      "DOCK",
+      "DOE",
+      "EON",
+      "KEN",
+      "NOD",
+      "NODE",
+      "ODE"
+    ]
+  },
+  {
+    "letters": "GKIAHCN",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "HACKING",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "INCH",
+        "r": 1,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "CHAIN",
+        "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "HANG",
+        "r": 2,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "GAIN",
+        "r": 4,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "KING",
+        "r": 4,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "NICK",
+        "r": 0,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "CAN",
+        "r": 6,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "GIN",
+        "r": 6,
+        "c": 5,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "ACHING",
+      "ACING",
+      "AKIN",
+      "CAKING",
+      "CHI",
+      "CHIN",
+      "CHINA",
+      "CHINK",
+      "HACK",
+      "HAG",
+      "HICK",
+      "INK",
+      "KIN",
+      "NAG",
+      "NIGH"
+    ]
+  },
+  {
+    "letters": "FDIEDDL",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "FIDDLED",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "FIELD",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "LIFE",
+        "r": 2,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "FILE",
+        "r": 4,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "LIED",
+        "r": 4,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "LED",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "DID",
+        "r": 7,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "LIE",
+        "r": 0,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "FED",
+        "r": 0,
+        "c": 3,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "DELI",
+      "DIE",
+      "DIED",
+      "ELF",
+      "FIDDLE",
+      "FILED",
+      "FLED",
+      "FLIED",
+      "IDLE",
+      "IDLED",
+      "LID"
+    ]
+  },
+  {
+    "letters": "HLNADFU",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "HANDFUL",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "LAND",
+        "r": 3,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "FUN",
+        "r": 5,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "AND",
+        "r": 7,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "HAD",
+        "r": 5,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "LAD",
+        "r": 3,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "HAND",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "HALF",
+        "r": 3,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "FAN",
+        "r": 1,
+        "c": 3,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "DUAL",
+      "FAD",
+      "FLU",
+      "FUND",
+      "HAUL",
+      "LAUD"
+    ]
+  },
+  {
+    "letters": "BIRYLFE",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "BRIEFLY",
+        "r": 2,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "BRIEF",
+        "r": 1,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "FIRE",
+        "r": 2,
+        "c": 5,
+        "d": "D"
+      },
+      {
+        "w": "LIE",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "LIFE",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "FILE",
+        "r": 3,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "BYE",
+        "r": 1,
+        "c": 7,
+        "d": "D"
+      },
+      {
+        "w": "FRY",
+        "r": 4,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "FLY",
+        "r": 0,
+        "c": 3,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "BELFRY",
+      "BILE",
+      "ELF",
+      "FER",
+      "FIB",
+      "FIBER",
+      "FIERY",
+      "FIR",
+      "FLIER",
+      "IRE",
+      "LIB",
+      "LYE",
+      "LYRE",
+      "REF",
+      "RELY",
+      "RIB",
+      "RIFE",
+      "RIFLE",
+      "RILE",
+      "RYE"
+    ]
+  },
+  {
+    "letters": "FWORDAR",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "FORWARD",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "WARD",
+        "r": 2,
+        "c": 3,
+        "d": "D"
+      },
+      {
+        "w": "ROAD",
+        "r": 4,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "WORD",
+        "r": 5,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "DRAW",
+        "r": 4,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "ROW",
+        "r": 4,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "ROD",
+        "r": 0,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "FAR",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "FOR",
+        "r": 0,
+        "c": 4,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "ADO",
+      "ARDOR",
+      "ARROW",
+      "DWARF",
+      "FAD",
+      "FORD",
+      "FRO",
+      "OAF",
+      "OAR",
+      "RAW",
+      "ROAR",
+      "WAD",
+      "WAR"
+    ]
+  },
+  {
+    "letters": "UGNIODN",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "UNDOING",
+        "r": 2,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "UNION",
+        "r": 2,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "DOING",
+        "r": 1,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "GOD",
+        "r": 5,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "DOG",
+        "r": 5,
+        "c": 6,
+        "d": "D"
+      },
+      {
+        "w": "GIN",
+        "r": 2,
+        "c": 7,
+        "d": "D"
+      },
+      {
+        "w": "DUG",
+        "r": 7,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "DIG",
+        "r": 4,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "DON",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      }
+    ],
+    "bonus": [
       "DIN",
-      "DUG",
       "DUNG",
       "DUNNO",
       "DUO",
       "GNU",
+      "GUN",
       "INN",
       "ION",
       "NOD",
@@ -3368,6 +3259,170 @@
       "NOUN",
       "NUN",
       "UNDO"
+    ]
+  },
+  {
+    "letters": "DPKSPIE",
+    "rows": 8,
+    "cols": 8,
+    "words": [
+      {
+        "w": "SKIPPED",
+        "r": 3,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "DESK",
+        "r": 0,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "SIDE",
+        "r": 1,
+        "c": 7,
+        "d": "D"
+      },
+      {
+        "w": "SPIKE",
+        "r": 2,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "SKIP",
+        "r": 3,
+        "c": 1,
+        "d": "D"
+      },
+      {
+        "w": "PIPE",
+        "r": 6,
+        "c": 1,
+        "d": "A"
+      },
+      {
+        "w": "KID",
+        "r": 5,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "DIP",
+        "r": 0,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "PIE",
+        "r": 1,
+        "c": 0,
+        "d": "A"
+      }
+    ],
+    "bonus": [
+      "DIE",
+      "DIES",
+      "DIKE",
+      "DIKES",
+      "DIPS",
+      "DIS",
+      "DISK",
+      "KIDS",
+      "PEP",
+      "PEPS",
+      "PIES",
+      "PIKE",
+      "PIKED",
+      "PIKES",
+      "PIPED",
+      "PIPES",
+      "PIS",
+      "SIP",
+      "SIPPED",
+      "SKI",
+      "SKID",
+      "SKIED",
+      "SPED",
+      "SPIED",
+      "SPIKED"
+    ]
+  },
+  {
+    "letters": "UGLVYAE",
+    "rows": 7,
+    "cols": 7,
+    "words": [
+      {
+        "w": "VAGUELY",
+        "r": 2,
+        "c": 0,
+        "d": "A"
+      },
+      {
+        "w": "VALUE",
+        "r": 2,
+        "c": 0,
+        "d": "D"
+      },
+      {
+        "w": "GLUE",
+        "r": 2,
+        "c": 2,
+        "d": "D"
+      },
+      {
+        "w": "AGE",
+        "r": 0,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "GAVE",
+        "r": 0,
+        "c": 3,
+        "d": "A"
+      },
+      {
+        "w": "UGLY",
+        "r": 4,
+        "c": 2,
+        "d": "A"
+      },
+      {
+        "w": "LEG",
+        "r": 4,
+        "c": 4,
+        "d": "D"
+      },
+      {
+        "w": "GUY",
+        "r": 6,
+        "c": 4,
+        "d": "A"
+      },
+      {
+        "w": "LAY",
+        "r": 2,
+        "c": 5,
+        "d": "D"
+      }
+    ],
+    "bonus": [
+      "ALE",
+      "AYE",
+      "GAL",
+      "GALE",
+      "GAVEL",
+      "GAY",
+      "GEL",
+      "LAG",
+      "LEVY",
+      "LUG",
+      "LYE",
+      "VAGUE",
+      "VEAL"
     ]
   }
 ]

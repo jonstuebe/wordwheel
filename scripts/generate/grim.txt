@@ -1,0 +1,96 @@
+# Words too grim or crude for a cheerful daily game, one per line. They never become
+# a Root or Grid word, but still count as Bonus words if a player spells one.
+# A word's plural (+S) is covered too.
+# Death and violence
+DEAD
+DEATH
+DIE
+DIED
+DIES
+DYING
+DEADLY
+DEMISE
+MORTAL
+KILL
+KILLS
+KILLED
+KILLER
+MURDER
+SUICIDE
+CORPSE
+COFFIN
+FUNERAL
+GRAVE
+BURIED
+BURY
+TOMB
+WOUND
+WOUNDS
+BLOOD
+BLEED
+STAB
+SLAY
+SLAIN
+HANGED
+NOOSE
+TORTURE
+ABUSE
+ASSAULT
+GUN
+GUNS
+RIFLE
+BOMB
+BOMBS
+BULLET
+WEAPON
+WAR
+WARS
+COMBAT
+TRAGIC
+# Illness
+PLAGUE
+FAMINE
+CANCER
+TUMOR
+DISEASE
+INFECT
+SYMPTOM
+STROKE
+SURGERY
+GRIEF
+# Drugs and drink
+DRUG
+DRUGS
+HEROIN
+COKE
+PILL
+PILLS
+INJECT
+DRUNK
+DRUNKEN
+BEER
+WHISKEY
+# Hate and cruelty
+HATE
+HATED
+DESPISE
+EVIL
+DEVIL
+CRUEL
+BRUTAL
+VILE
+BIGOT
+BIGOTRY
+SLAVE
+IMMORAL
+SORDID
+CURSE
+ABORT
+# Crude, or with a crude meaning (swear words go in profane.txt)
+SCREW
+OBSCENE
+CRUDE
+TOILET
+MOANING
+GAY
+VIRGIN

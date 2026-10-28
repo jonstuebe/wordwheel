@@ -1,34 +1,10 @@
 # Root words turned down in review, one per line. The generator never uses their letters.
-SUICIDE
-HEROIN
-TORTURE
-BIGOTRY
-FAMINE
-PLAGUE
-WEAPON
-DRUNKEN
-DEADLY
-ABORT
-DEMISE
-SORDID
-IMMORAL
-WOUND
-CURSE
+# Grim or crude words belong in grim.txt instead, which keeps them off every Grid.
 BITMAP
 INTER
 PHYSIC
 WHILST
 ENCODE
 TOGGLE
-OBSCENE
-DAMNING
-BULLET
-TOILET
 PARSE
-KILLED
-SCREWED
-INFECT
 PYTHON
-MOANING
-CRUDE
-HANGED

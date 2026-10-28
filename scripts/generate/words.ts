@@ -3,6 +3,7 @@
 // only lists the words new at that size, so a dictionary is a union of tiers.
 // SCOWL says whether a word is common, not how common: for that, SUBTLEX-US counts
 // how often each word is spoken in film and TV subtitles.
+import { readFileSync } from 'node:fs';
 import { createRequire } from 'node:module';
 
 // Through require: wordlist-english's ESM entry imports a path that doesn't resolve under Vitest.
@@ -20,7 +21,14 @@ const SPELLINGS = ['english', 'english/american'];
 export const MIN_LENGTH = 3;
 export const MAX_LENGTH = 7;
 
-const BLOCKED = new Set(naughty.en.filter((w) => /^[a-z]+$/.test(w)).map((w) => w.toUpperCase()));
+/** A word list file: one word per line, `#` lines are comments. */
+const readList = (file: string) =>
+  readFileSync(new URL(file, import.meta.url), 'utf8').split('\n').map((l) => l.trim().toUpperCase()).filter((l) => l && !l.startsWith('#'));
+
+/** Swear words and slurs: never in a Puzzle at all. */
+export const PROFANE = new Set([...naughty.en.filter((w) => /^[a-z]+$/.test(w)).map((w) => w.toUpperCase()), ...readList('./profane.txt')]);
+/** Grim or crude words and their plurals: fine as Bonus words, never a Root or Grid word. */
+export const GRIM = new Set(readList('./grim.txt').flatMap((w) => [w, `${w}S`]));
 
 function load(tiers: number[]): Set<string> {
   const out = new Set<string>();
@@ -30,7 +38,7 @@ function load(tiers: number[]): Set<string> {
         // Lowercase only: capitalised entries are names and acronyms.
         if (w.length < MIN_LENGTH || w.length > MAX_LENGTH || !/^[a-z]+$/.test(w)) continue;
         const upper = w.toUpperCase();
-        if (!BLOCKED.has(upper)) out.add(upper);
+        if (!PROFANE.has(upper)) out.add(upper);
       }
     }
   }
@@ -50,5 +58,6 @@ export function loadDictionary(): Dictionary {
     const upper = word.toUpperCase();
     counts.set(upper, (counts.get(upper) ?? 0) + count);
   }
-  return { common: load(COMMON_TIERS), bonus: load(BONUS_TIERS), frequency: (w) => counts.get(w) ?? 0 };
+  const common = new Set([...load(COMMON_TIERS)].filter((w) => !GRIM.has(w)));
+  return { common, bonus: load(BONUS_TIERS), frequency: (w) => counts.get(w) ?? 0 };
 }

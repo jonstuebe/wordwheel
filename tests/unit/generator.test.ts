@@ -45,6 +45,8 @@ it('fills the Grid with the most frequent words that fit', () => {
 describe('dictionary', () => {
   it('keeps names, acronyms and offensive words out', () => {
     expect(dict.common.has('CAT')).toBe(true);
+    expect(dict.common.has('DEAD')).toBe(false);
+    expect(dict.bonus.has('DEAD')).toBe(true);
     expect(dict.bonus.has('ABACUS')).toBe(true);
     expect(dict.frequency('HOUSE')).toBeGreaterThan(dict.frequency('ABACUS'));
     expect([...dict.bonus].every((w) => /^[A-Z]{3,7}$/.test(w))).toBe(true);

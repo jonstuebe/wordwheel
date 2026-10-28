@@ -4,6 +4,7 @@ import daily from '../../worker/puzzles.json';
 import levels from '../../src/data/levels.json';
 import { canSpell, cellKey, layout, letterRuns } from '../../src/lib/grid';
 import type { Puzzle } from '../../src/lib/types';
+import { GRIM, PROFANE } from '../../scripts/generate/words';
 
 function problems(p: Puzzle): string[] {
   const out: string[] = [];
@@ -32,6 +33,8 @@ function problems(p: Puzzle): string[] {
   }
   if (seen.size !== grid.letters.size) out.push('the Grid is in more than one piece');
   if (!p.words.some((w) => w.w.length === p.letters.length)) out.push('no Grid word uses every Wheel letter');
+  for (const w of words) if (GRIM.has(w) || PROFANE.has(w)) out.push(`${w} is too grim or crude for the Grid`);
+  for (const b of p.bonus) if (PROFANE.has(b)) out.push(`Bonus word ${b} is a swear word`);
   for (const b of p.bonus) {
     if (b.length < 3 || !canSpell(b, p.letters)) out.push(`Bonus word ${b} can't be spelled`);
     if (grid.wordCells.has(b)) out.push(`${b} is both a Grid and a Bonus word`);
