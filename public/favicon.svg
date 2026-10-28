@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3D7BFF"/>
+      <stop offset="1" stop-color="#8A4DFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <g id="art">
+    <circle cx="256" cy="256" r="168" fill="#ffffff" fill-opacity=".22" stroke="#ffffff" stroke-opacity=".6" stroke-width="6"/>
+    <polyline points="256,138 358,315 154,315" fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".9"/>
+    <g fill="#ffffff">
+      <circle cx="256" cy="138" r="52"/>
+      <circle cx="358" cy="315" r="52"/>
+      <circle cx="154" cy="315" r="52"/>
+    </g>
+    <g fill="#2B4FD8" font-family="-apple-system, Helvetica, Arial, sans-serif" font-weight="800" font-size="60" text-anchor="middle">
+      <text x="256" y="159">W</text>
+      <text x="358" y="336">O</text>
+      <text x="154" y="336">R</text>
+    </g>
+  </g>
+</svg>

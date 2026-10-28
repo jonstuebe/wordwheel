@@ -22,6 +22,10 @@ _Avoid_: Board, crossword
 A target word with a place on the grid. Finding it fills in its slots.
 _Avoid_: Answer, target, solution word
 
+**Root word**:
+The common word that uses every Wheel letter. It is always a Grid word, and the generator builds each Puzzle around it.
+_Avoid_: Seed word, main word
+
 **Bonus word**:
 A real word of at least 3 letters, spellable from the wheel, that is not a grid word. Each one found earns 5 coins.
 _Avoid_: Extra word, hidden word
@@ -53,6 +57,10 @@ _Avoid_: Scramble, rotate
 **Daily puzzle**:
 The one puzzle everyone shares on a given day. A new one starts at midnight. It allows one timed solve per day and earns 30 coins.
 _Avoid_: Daily challenge, puzzle of the day
+
+**Puzzle number**:
+Which Daily puzzle a date gets, counting from #1 on the Launch date (2026-10-28). Only the server knows it.
+_Avoid_: Day number, puzzle id
 
 **Streak**:
 The count of consecutive days the player has solved the Daily puzzle.
