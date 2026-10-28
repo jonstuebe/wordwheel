@@ -65,3 +65,11 @@ export function applyHint(grid: GridLayout, run: Run, cell: CellKey): Run {
 export function isSolved(puzzle: Puzzle, run: Run): boolean {
   return puzzle.words.every((p) => run.found.includes(p.w));
 }
+
+/** False when a saved Run belongs to some other Puzzle, as after a Level is regenerated. */
+export function runFits(puzzle: Puzzle, run: Run): boolean {
+  const sorted = (letters: Iterable<string>) => [...letters].sort().join('');
+  if (run.order && sorted(run.order) !== sorted(puzzle.letters)) return false;
+  const words = new Set(puzzle.words.map((p) => p.w));
+  return run.found.every((w) => words.has(w)) && run.bonusFound.every((w) => puzzle.bonus.includes(w));
+}

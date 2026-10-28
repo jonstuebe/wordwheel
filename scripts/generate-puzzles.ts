@@ -24,8 +24,8 @@ const DAY_MS = 86_400_000;
 
 /** Harder through the week, like a newspaper puzzle: 5 letters early on, 7 at the weekend. */
 const WEEKDAY_LETTERS = [7, 5, 5, 6, 6, 6, 7];
-/** New Challenge levels continue past the hardest Daily size. */
-const LEVEL_SIZE: Size = { letters: 7, words: 9, maxSize: 9 };
+/** Challenge levels grow from 5 letters to 7; the first three are hand-made warm-ups. */
+const levelSize = (n: number): Size => SIZES[n < 30 ? 5 : n < 48 ? 6 : 7];
 
 const { values } = parseArgs({
   options: {
@@ -61,7 +61,7 @@ for (let i = 0; i < days; i++) {
 
 for (let i = 0; i < Number(values.levels ?? 0); i++) {
   const n = levels.length + 1;
-  const puzzle = generatePuzzle(`level:${n}`, LEVEL_SIZE, dict, used);
+  const puzzle = generatePuzzle(`level:${n}`, levelSize(n), dict, used);
   used.add(letterSet(puzzle.letters));
   levels.push(puzzle);
   added.push(`Level ${n}  ${describe(puzzle)}`);

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { applyHint, isSolved, pickHint, submit } from '../../src/lib/game';
+import { applyHint, isSolved, pickHint, runFits, submit } from '../../src/lib/game';
 import { canSpell, layout, letterRuns } from '../../src/lib/grid';
 import { newRun } from '../../src/lib/types';
 import { BIG, PUZZLE } from './fixtures';
@@ -36,6 +36,16 @@ describe('submit', () => {
     const g = layout(PUZZLE);
     const r1 = submit(PUZZLE, g, newRun(), 'CAT');
     expect(r1.kind === 'grid' && r1.run.found).toEqual(['CAT']);
+  });
+});
+
+describe('runFits', () => {
+  it("accepts this Puzzle's Runs and turns down a Run saved against another", () => {
+    expect(runFits(BIG, newRun())).toBe(true);
+    expect(runFits(BIG, { ...newRun(), order: [...'TOPSURP'], found: ['PUT'], bonusFound: ['SOUP'] })).toBe(true);
+    expect(runFits(BIG, { ...newRun(), order: [...'CATS'] })).toBe(false);
+    expect(runFits(BIG, { ...newRun(), found: ['CAT'] })).toBe(false);
+    expect(runFits(BIG, { ...newRun(), bonusFound: ['CAT'] })).toBe(false);
   });
 });
 

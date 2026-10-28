@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState, type ReactNode } from 'react';
 import levelsData from './data/levels.json';
 import { cachedDaily, estimatedPuzzleNumber, loadDaily, type Daily } from './lib/daily';
-import { DAILY_REWARD, LEVEL_REWARD, isSolved } from './lib/game';
+import { DAILY_REWARD, LEVEL_REWARD, isSolved, runFits } from './lib/game';
 import { dailyOrder, formatElapsed, localDateKey, shuffle } from './lib/puzzle';
 import { buildShareText, shareResults } from './lib/share';
 import {
@@ -14,7 +14,7 @@ import {
   saveState,
   type GameState,
 } from './lib/storage';
-import type { Puzzle, Run } from './lib/types';
+import { newRun, type Puzzle, type Run } from './lib/types';
 import { applyUpdate, onUpdateAvailable } from './lib/pwa';
 import { usePrefersReducedMotion } from './lib/usePrefersReducedMotion';
 import { Countdown } from './components/Countdown';
@@ -152,8 +152,10 @@ export function App() {
 
   const level = state.challenge.level;
   const levelPuzzle: Puzzle | undefined = LEVELS[level];
+  // A Run saved against a Level since regenerated starts over rather than showing the old Wheel.
+  const levelRun = levelPuzzle && runFits(levelPuzzle, state.challenge.run) ? state.challenge.run : newRun();
   // A solved level stays on screen, showing its done card, until the player moves on.
-  const levelSolved = levelPuzzle ? isSolved(levelPuzzle, state.challenge.run) : false;
+  const levelSolved = levelPuzzle ? isSolved(levelPuzzle, levelRun) : false;
   const nextLevel = useCallback(() => setState(advanceLevel), []);
 
   const onLevelChange = useCallback(
@@ -245,7 +247,7 @@ export function App() {
         <Play
           key={`level-${level}`}
           puzzle={levelPuzzle}
-          run={state.challenge.run}
+          run={levelRun}
           startOrder={() => shuffle([...levelPuzzle.letters])}
           title={`Level ${level + 1}`}
           coins={state.coins}
